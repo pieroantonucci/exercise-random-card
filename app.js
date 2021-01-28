@@ -9,7 +9,6 @@ window.onload = () => {
         if(picafinal === '\u2665' || picafinal === '\u2666'){
                 document.querySelector("#picaa").style.color = 'red';
                 document.querySelector("#picaa2").style.color = 'red';
-                document.querySelector("#numcarta").style.color = 'red';
         } 
 }
 
